@@ -15,7 +15,7 @@
 
 ---
 
-## 📖 About the Project
+## 📖 About the Paper
 
 **Sema-ChestX-Former** is a novel, parameter-efficient hybrid architecture designed for the automated analysis of Chest X-Rays (CXRs). Developed by researchers at the **ELITE Research Lab**, this model synergistically integrates the local feature extraction capabilities of Convolutional Neural Networks (CNNs) with the global context understanding of Vision Transformers (ViTs).
 
